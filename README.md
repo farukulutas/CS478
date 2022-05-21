@@ -13,3 +13,9 @@ You can create any number of random points using the algorithm you want in the a
 <img src="https://github.com/farukulutas/CS-478/blob/main/img/init_gui.PNG" width="400" height="400" />
 <img src="https://github.com/farukulutas/CS-478/blob/main/img/algo_gui.PNG" width="400" height="400" />
 </p>
+
+## Homeworks
+### (HW1) Geometric Searching
+### (HW2) Convex Hulls
+### (HW3) Proximity
+### (HW4) Intersections
