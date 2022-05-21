@@ -15,7 +15,7 @@ You can create any number of random points using the algorithm you want in the a
 </p>
 
 ## Homeworks
-### (HW1) Geometric Searching
-### (HW2) Convex Hulls
-### (HW3) Proximity
-### (HW4) Intersections
+#### (HW1) Geometric Searching
+#### (HW2) Convex Hulls
+#### (HW3) Proximity
+#### (HW4) Intersections
